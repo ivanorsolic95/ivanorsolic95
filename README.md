@@ -8,5 +8,5 @@ Check out some of my most recent projects:
 - [MyReads](https://myreads2.netlify.app/): A book tracking app that allows users to organize their books into three shelves: Currently Reading, Want to Read, and Read.
 - [MyStore](https://mystoreproject.netlify.app/): An e-commerce application built with Angular that simulates an online shopping experience.
 
-You can find info about me, like my CV, projects, LinkedIn at [ivanorsolic.live]http://ivanorsolic.live/), if you're interested in that!
+You can find info about me, like my CV, projects, LinkedIn at [ivanorsolic.live](http://ivanorsolic.live/), if you're interested in that!
  
